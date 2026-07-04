@@ -265,5 +265,3 @@ Possible future enhancements include:
 - Export analytics reports
 - Cloud deployment
 - Real-time streaming using Spark Structured Streaming
-
-This project is licensed under the MIT License.
