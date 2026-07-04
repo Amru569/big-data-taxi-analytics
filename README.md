@@ -186,26 +186,6 @@ Displays tabular summaries of the top pickup and drop-off zones.
 
 ---
 
-# Dashboard Preview
-
-## Main Dashboard
-
-<img src="assets/dashboard_1.png" width="100%">
-
----
-
-## Payment Distribution
-
-<img src="assets/dashboard_2.png" width="100%">
-
----
-
-## Pickup and Drop-off Analytics
-
-<img src="assets/dashboard_3.png" width="100%">
-
----
-
 # Installation
 
 Clone the repository
