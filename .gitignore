@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+
+# Dataset
+data/raw/*.parquet
+data/processed/
+
+# Outputs
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

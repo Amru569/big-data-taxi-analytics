@@ -1,0 +1,5 @@
+pyspark
+streamlit
+plotly
+pandas
+findspark
