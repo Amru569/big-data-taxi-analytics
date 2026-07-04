@@ -252,29 +252,6 @@ Run Docker Container
 
 ```bash
 docker run -p 8501:8501 taxi-analytics
-```
-
----
-
-# Screenshots
-
-Place the dashboard screenshots inside
-
-```
-assets/
-```
-
-Example
-
-```
-assets/
-
-dashboard_1.png
-
-dashboard_2.png
-
-dashboard_3.png
-```
 
 ---
 
