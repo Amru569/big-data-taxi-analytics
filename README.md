@@ -266,8 +266,4 @@ Possible future enhancements include:
 - Cloud deployment
 - Real-time streaming using Spark Structured Streaming
 
-
-
-# License
-
 This project is licensed under the MIT License.
